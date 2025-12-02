@@ -36,23 +36,8 @@ Le dataset **AIDS** contient plusieurs fichiers :
 
 ---
 
-## **Installation**
-
-1. Cloner le dépôt :  
-```bash
-git clone https://github.com/votre-utilisateur/GNN-AIDS-Molécules-Classification.git
-cd GNN-AIDS-Molécules-Classification
 
 
-numpy
-pandas
-networkx
-matplotlib
-scikit-learn
-xgboost
-torch
-torch-geometric
-karateclub
 
 ## **Étapes du projet**
 
